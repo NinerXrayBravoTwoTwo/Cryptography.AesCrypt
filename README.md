@@ -3,6 +3,7 @@ C# class wrapping the .Net Cryptography Aes class, incorporating compression and
 
 ## License
 GNU License
+
 Copyright(c)2013, Jillian England
 
 ## Usage
