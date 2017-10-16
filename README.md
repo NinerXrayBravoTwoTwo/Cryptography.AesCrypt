@@ -20,7 +20,7 @@ Error checking throws a specific error when an incorrect key is used for decrypt
 ## Error checking
 If you forget to set a key in the constructor AND you do not call the method with an encryption key an appropriate error message is generated.
 
-If you try to decrypt a message with an incorrect key and appropriate error message is generated.
+If you try to decrypt a message with an incorrect key an appropriate error message is generated.
 
 ## Usage that retruns encrypted base64 string using predefined key
 
