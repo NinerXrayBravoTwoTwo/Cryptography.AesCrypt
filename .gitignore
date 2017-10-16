@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Cryptography.AesCrypt/bin/Debug
+/Cryptography.AesCryptTest/bin/Debug
+/Cryptography.AesCrypt/obj/Debug
+/Cryptography.AesCryptTest/obj/Debug
+/Utility.DataGeneration/obj/Debug
+/Utility.DataGeneration/bin/Debug
+/.vs/Cryptography.AesCrypt/v15/sqlite3
+/.vs/Cryptography.AesCrypt/v15/.suo
