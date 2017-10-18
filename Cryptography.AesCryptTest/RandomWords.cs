@@ -1,4 +1,8 @@
-﻿using System.IO;
+﻿/*
+ * Copyright (c) 2015-2017, Jillian England
+ * License: GPL 3
+ */
+using System.IO;
 using System.Linq;
 using Utility.DataGeneration;
 

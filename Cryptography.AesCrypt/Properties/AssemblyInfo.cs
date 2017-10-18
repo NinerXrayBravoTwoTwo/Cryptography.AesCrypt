@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("Stephsoft.Security.Cryptography")]
+[assembly: AssemblyTitle("Security.Cryptography")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Stephsoft.Security.Cryptography")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyProduct("Security.Cryptography")]
+[assembly: AssemblyCopyright("Copyright © 2015 - 2017 Jillian England")]
+[assembly: AssemblyTrademark("Polycrypt Fun! (tm)")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 

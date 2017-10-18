@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * Copyright (c) 2015-2017, Jillian England
+ * License: GPL 3
+ */
+using System;
 using System.Linq;
 using System.Text;
 using Cryptography.AesCrypt;

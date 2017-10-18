@@ -1,8 +1,7 @@
 ﻿/*
- * Copyright (c) 2008-2017, Jillian England
- * License: GPL 4
+ * Copyright (c) 2015-2017, Jillian England
+ * License: GPL 3
  */
-
 using System;
 
 namespace Utility.DataGeneration

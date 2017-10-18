@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2015-2017, Jillian England
+ * License: GPL 3
+ */
 using System.Collections.Generic;
 
 namespace Utility.DataGeneration

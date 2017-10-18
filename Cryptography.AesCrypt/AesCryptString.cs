@@ -1,6 +1,6 @@
 ﻿/*
- * Copyright (c) 2015, Jillian England
- * License: GPL 4
+ * Copyright (c) 2015-2017, Jillian England
+ * License: GPL 3
  */
 
 using System;
