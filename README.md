@@ -24,7 +24,7 @@ If you try to decrypt a message with an incorrect key an appropriate error messa
 
 ## Usage that retruns encrypted base64 string using predefined key
 
-All keys are required to be base64 encoded and are retruned base64 encoded.
+All keys are required to be base64 encoded and are returned base64 encoded.
 Encrypt->Decrypt example with pre-generated key. Returns base64 encrypted string.
 ```
 var crypto = new AesCryptString();
