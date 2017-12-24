@@ -1,5 +1,5 @@
 # Cryptography.AesCrypt
-C# class wrapping the .Net Cryptography Aes class, incorporating compression and base64 wrapped string keys in a nice little package with through unit testing
+C# class wrapping the .Net Cryptography Aes class, incorporating compression and base64 wrapped string keys in a nice little package with thorough unit testing
 
 ## License
 GNU License
@@ -22,7 +22,7 @@ If you forget to set a key in the constructor AND you do not call the method wit
 
 If you try to decrypt a message with an incorrect key an appropriate error message is generated.
 
-## Usage that retruns encrypted base64 string using predefined key
+## Usage that returns encrypted base64 string using predefined key
 
 All keys are required to be base64 encoded and are returned base64 encoded.
 Encrypt->Decrypt example with pre-generated key. Returns base64 encrypted string.
